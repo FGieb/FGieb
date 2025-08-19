@@ -11,9 +11,9 @@
 
 ---
 
-<!-- Feature the repo you just made public -->
-### 🔹 Featured repository
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FGieb&repo=WeatherBot&theme=radical&hide_border=false)](https://github.com/FGieb/WeatherBot)
+### 🔹 Featured repositories
+[![WeatherBot](https://github-readme-stats.vercel.app/api/pin/?username=FGieb&repo=WeatherBot&theme=radical&hide_border=false)](https://github.com/FGieb/WeatherBot)
+
+[![Astro Private Site](https://github-readme-stats.vercel.app/api/pin/?username=FGieb&repo=astro-private-site&theme=radical&hide_border=false)](https://github.com/FGieb/astro-private-site)
 
 [![](https://visitcount.itsvg.in/api?id=FGieb&icon=0&color=0)](https://visitcount.itsvg.in)
-
